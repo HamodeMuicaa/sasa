@@ -1,0 +1,11 @@
+schedule==1.2.2
+bs4==0.0.2
+pycountry==24.6.1
+random2==1.0.2
+requests
+telebot
+apihelper
+logging
+asyncio
+telethon
+user_agent
